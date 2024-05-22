@@ -1,2 +1,3 @@
 # monopoly
 Java Swing Monopoly Game
+JUAN SEBASTIAN CANO VASQUEZ 02230131036
